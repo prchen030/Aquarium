@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Aquarium</string>
+    <string name="imageanimals">image of Animals</string>
+    <string name="nameAnimals">name of Animals</string>
+    <string name="descriptionAnimals">description of Animals</string>
+</resources>
